@@ -1,6 +1,2 @@
-# This is <h1> tag for this headingn
-## this is <h2> tag for this heading
-### this is <h3> tag for this heading
-#### this is <h4> tag for this heading
-##### this is <h5> tag for this heading
-###### this is <h6> tag for this heading
+1
+# This is <h1> tag for this heading
